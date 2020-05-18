@@ -2114,7 +2114,7 @@ button:disabled,
   height: 100%;
   opacity: 1;
   z-index: 1;
-  opacity: 0.8;
+  opacity: 0.25;
 }
 .tiles article > .image:after {
   pointer-events: none;
@@ -2133,7 +2133,7 @@ button:disabled,
   background-position: center;
   background-repeat: no-repeat;
   background-size: 100% 100%;
-  opacity: 0.25;
+  opacity: 0.8;
   z-index: 2;
 }
 .tiles article > a {
