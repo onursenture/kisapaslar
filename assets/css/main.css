@@ -2157,24 +2157,6 @@ button:disabled,
 .tiles article > a .content > :last-child {
   margin-bottom: 0;
 }
-.tiles article.style1 > .image:before {
-  background-color: #ffd801;
-}
-.tiles article.style2 > .image:before {
-  background-color: #83E5FF;
-}
-.tiles article.style3 > .image:before {
-  background-color: #B2FB8E;
-}
-.tiles article.style4 > .image:before {
-  background-color: #ffb401;
-}
-.tiles article.style5 > .image:before {
-  background-color: #FFAD7E;
-}
-.tiles article.style6 > .image:before {
-  background-color: #8499e7;
-}
 body:not(.is-touch) .tiles article:hover > .image {
   -moz-transform: scale(1.1);
   -webkit-transform: scale(1.1);
